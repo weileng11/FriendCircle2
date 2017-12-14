@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FriendCircle</string>
+    <string name="title_circle">朋友圈</string>
+    <string name="loading">正在加载...</string>
+    <string name="sned_comment">发送</string>
+    <string name="please_input_content">请输入内容</string>
+</resources>
